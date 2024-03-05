@@ -1,5 +1,5 @@
 <p align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdkMzd0YmI2Y3QyMHd6YTJveXU1MjNpdW5ocXFwd3U0aXhkdzI1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="50%" /></p>
-<h1 align="center">Hi 👋, I'm Diego</h1>
+<h1 align="center">Hi <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWk3OWVsenFlYXNwN2Nub2UyNjd3cnAzc3M2a3BsZGlpMm95OXZtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy_s.gif" width="1%" />, I'm Diego</h1>
 <h3 align="center">I'm a software engineering student from Spain</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diiegooar&label=Profile%20views&color=0e75b6&style=flat" alt="diiegooar" /> </p>
 
