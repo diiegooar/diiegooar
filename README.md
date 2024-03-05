@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdkMzd0YmI2Y3QyMHd6YTJveXU1MjNpdW5ocXFwd3U0aXhkdzI1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="100%" />
 <h1 align="center">Hi 👋, I'm Diego</h1>
 <h3 align="center">I'm a software engineering student from Spain</h3>
 
