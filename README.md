@@ -3,8 +3,6 @@
 <h3 align="center">I'm a software engineering student from Spain</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diiegooar&label=Profile%20views&color=0e75b6&style=flat" alt="diiegooar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diiegooar&theme=" alt="diiegooar" /></a> </p>
-
 - 🛠️Working on **myself**
 - 🌱 I’m currently learning, **which is no small feat**
 - 💬 Ask me about **whatever you have in mind**
